@@ -3,6 +3,7 @@ Anki is a program which makes remembering things easy.
 Anki (the Japanese word for “memorization”) is a memory app that uses spaced repetition to spread out your learning intervals so you memorize information effectively.
 # Topics
   * Replication Strategies
+  * Distributed Systems 
 
 # How to Use
  * Please download file with .apkg extensions and open in [Anki App](https://apps.ankiweb.net/) 
